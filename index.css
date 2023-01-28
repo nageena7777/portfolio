@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#navbar-logo {
+    font-size: 15px;
+    font-weight: bolder;
+    font-family: Roboto;
+    color: #4cad63;
+}
+
+#nav-link-1 {
+    font-size: 15px;
+    font-weight: bolder;
+    color: #4cad63;
+}
+
+#nav-link-2 {
+    font-size: 15px;
+    font-weight: bolder;
+    color: #ffffff;
+}
+
+#nav-link-3 {
+    font-size: 15px;
+    font-weight: bolder;
+    color: #4cad63;
+
+}
+
+#nav-link-4 {
+    font-size: 15px;
+    font-weight: bolder;
+    color: #ffffff;
+
+}
+
+#nav-link-5 {
+    font-size: 15px;
+    font-weight: bolder;
+    color: #4cad63;
+}
+
+.banner-container {
+    background-color: #000000;
+}
+
+.banner-section-card {
+    height: 200px;
+    width: 220px;
+    padding: 10px;
+    border-radius: 100px;
+
+}
+
+.banner-section-heading {
+    font-size: 30px;
+    text-align: center;
+    padding: 30px;
+    color: #ffffff;
+
+}
+
+.banner-section-person-name {
+    font-size: 35px;
+    color: #4cad63;
+}
+
+.about-section-card {
+    background-color: #ffffff;
+
+}
+
+.about-section-heading {
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: bold;
+    color: #4cad63;
+}
+
+.about-section-description {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: normal;
+    color: #000000;
+}
+
+.skills-section-card {
+    background-color: #000000;
+}
+
+.skills-section-heading {
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: bold;
+    color: #4cad63;
+}
+
+.skills-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    height: 40vh;
+    width: 100%;
+    background-size: cover;
+}
+
+
+.skills-card-heading {
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: bold;
+    color: #4cad63;
+    text-align: center;
+}
+
+.skill-card-image {
+    height: 100px;
+    width: 25%;
+    padding-left: 10px;
+    background-size: cover;
+}
+
+.project-section-card {
+    background-color: white;
+
+}
+
+
+.projects-card {
+    background-color: #000000;
+    border-radius: 10px;
+    width: 100%;
+    height: 75vh;
+    background-size: cover;
+}
+
+
+.projects-card-heading {
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: bold;
+    color: #4cad63;
+    text-align: center;
+}
+
+.projects-card-para {
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: normal;
+    color: #ffffff;
+    text-align: left;
+}
+
+.skill-card-image {
+    height: 130px;
+    width: 100%;
+    padding: 20px;
+    background-size: cover;
+}
+
+.footer-section-bg {
+    background-color: #000000;
+    height: 50vh;
+}
+
+.footer-section-card-heading {
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: bold;
+    color: #4cad63;
+    text-align: left;
+}
+
+
+.footer-section-name {
+    font-size: 25px;
+    font-weight: bold;
+    color: #4cad63;
+    padding-left: 10px
+}
+
+.footer-section-description {
+    font-size: 15px;
+    font-weight: normal;
+    color: #000000;
+
+}
+
+.footer-section-no {
+    font-size: 25px;
+    font-weight: bold;
+    color: #4cad63;
+}
+
+.icon {
+    margin-right: 20px;
+    font-size: 25px;
+
+}
+
+.footer-section-card-bottom {
+    background-color: #000000;
+}
+
+.footer-section-bottom-para {
+    color: #ffffff;
+    font-size: 10px;
+}
